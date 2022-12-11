@@ -11,7 +11,7 @@
 # Skills
 
 # Tools
-### AzureDevops
+#### AzureDevops
 * Know how to create projects, manage backlog, manage sprint content
 * Create Defects
 * Create PBIs
@@ -21,27 +21,27 @@
 * Deploy to specific environments using ready Pipelines
 * Create and run estimate and retrospective sessions
 
-### Jira
+#### Jira
 * Create bug reports
 * Track project progress
 
-### Zephyr
+#### Zephyr
 * Create test cycles, test cases and link to bugs
 * Reporting
 
-### VersionOne
+#### VersionOne
 * General sprint management
 * Create bug reports
 
-### Spira Tool
+#### Spira Tool
 * Create test plan, test cycles, test cases
 * Execute them manually
 * Link test cases to automated scripts from Rapise and run scripts from tool
 * Reporting
 
-### Postman
-### Browser Dev Tools
-### Kb8, VSpehere, MobaXTerm
+#### Postman
+#### Browser Dev Tools
+##### Kb8, VSpehere, MobaXTerm
 * Check service and docker container status on Kb8
 * Create VMs in VSpehere
 * Deploy Docker instances on MobaXTerm
