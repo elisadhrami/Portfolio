@@ -1,8 +1,8 @@
 # Portfolio
 
-"*" About Me
+"*" About Me 
 "*" Skills
-"*" Tools
+"*" Tools 
 "*" Courses
 "*" Examples of my work
 "*" Books I have read
