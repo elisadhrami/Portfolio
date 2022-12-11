@@ -41,7 +41,7 @@
 
 #### Postman
 #### Browser Dev Tools
-##### Kb8, VSpehere, MobaXTerm
+#### Kb8, VSpehere, MobaXTerm
 * Check service and docker container status on Kb8
 * Create VMs in VSpehere
 * Deploy Docker instances on MobaXTerm
