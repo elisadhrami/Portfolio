@@ -47,6 +47,21 @@
 * Deploy Docker instances on MobaXTerm
 
 # Courses
+#### Robot Framework 2022 Test Automation - Level 1 ( Selenium )
+#### Robot Framework Test Automation - Level 2
+#### Selenium WebDriver with C# for Beginners + Live Testing Site
+#### Javascript Essentials
+#### Introduction to Computer Science and Programming Using Python (Starting on January 2023)
+#### Test Automation University (Applitools) Certificates
+* Test Automation for Accessibility
+* Automated Visual Testing with C#
+* Intro to Selenium WebDriver with .NET Core
+* Setting a Foundation for Successful Test Automation
+* Introduction to NUnit
+* The Whole Team Approach to Continuous Testing
+* Scaling Tests with Docker
+
+
 
 # Books I have read
 * How Google tests software
