@@ -52,7 +52,7 @@
 #### Selenium WebDriver with C# for Beginners + Live Testing Site
 #### Javascript Essentials
 #### Introduction to Computer Science and Programming Using Python (Starting on January 2023)
-#### Test Automation University (Applitools) Certificates
+#### Test Automation University (Applitools) Courses
 * Test Automation for Accessibility
 * Automated Visual Testing with C#
 * Intro to Selenium WebDriver with .NET Core
