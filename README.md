@@ -49,5 +49,7 @@
 # Courses
 
 # Books I have read
+* How Google tests software
+* Agile Testing Foundation - An ISTQB Foundation Level Agile Tester guide
 
 # Examples of my work
