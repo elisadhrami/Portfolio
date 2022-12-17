@@ -9,6 +9,7 @@
 # About me
 
 # Skills
+You can find examples of some of the described skills in the [Examples of my work](#examples-of-my-work) section
 
 # Tools
 #### AzureDevops
@@ -40,7 +41,7 @@
 * Reporting
 
 #### Postman
-#### Browser Dev Tools
+#### Browser Dev Tool
 #### Kb8, VSpehere, MobaXTerm
 * Check service and docker container status on Kb8
 * Create VMs in VSpehere
