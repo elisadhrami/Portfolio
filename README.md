@@ -66,7 +66,7 @@
 # Books I have read
 * How Google tests software
 * Agile Testing Foundation - An ISTQB Foundation Level Agile Tester guide
-* Book 1
-* Book 2
+* DON'T MAKE ME THINK A Common Sense Approach to Web and Mobile Usability
+* The Future of Software Quality Assurance
 
 # Examples of my work
