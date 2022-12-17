@@ -75,9 +75,9 @@ You can find examples of some of the described skills in the [Examples of my wor
 
 
 # Books I have read
-* How Google tests software
+* How Google tests software (Reading)
 * Agile Testing Foundation - An ISTQB Foundation Level Agile Tester guide
 * DON'T MAKE ME THINK A Common Sense Approach to Web and Mobile Usability
-* The Future of Software Quality Assurance
+* The Future of Software Quality Assurance (Reading)
 
 # Examples of my work
