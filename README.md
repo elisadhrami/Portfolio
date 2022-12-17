@@ -10,6 +10,16 @@
 
 # Skills
 You can find examples of some of the described skills in the [Examples of my work](#examples-of-my-work) section
+* Manual Testing
+* Test Analysis and Design
+* Defect Reporting
+* Root Cause Analysis
+* Automated Testing
+* API Testing
+* SQL and non-SQL DBs
+* Test Documentation
+* Test and schedule management
+* Python Fundamentals
 
 # Tools
 #### AzureDevops
