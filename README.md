@@ -19,7 +19,8 @@ You can find examples of some of the described skills in the [Examples of my wor
 #### SQL and non-SQL DBs
 #### Test Documentation
 #### Test and schedule management
-#### Python Fundamentals
+#### C# on .NET Fundamentals
+#### Python Fundamentals (Learning)
 
 # Tools
 #### AzureDevops
