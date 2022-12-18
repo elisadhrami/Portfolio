@@ -7,8 +7,8 @@
 * [Examples of my work](#examples-of-my-work)
 
 # About me
-I am a positive thinker and a passionate professional. Because I have a multifaceted personality, I am able to contribute and assist on various aspects of a working team, such as analysis, organization, UI/UX, and, of course, testing and quality assurance. At the same time, I never stop learning new things and exploring new fields of interest. 
-I am a very organized, attentive to details, and structured person due to a discipline cultivated since I was a child. In addition, I have a very open personality, am very communicative, and am always eager to discuss and solve problems.
+I am a positive thinker and a passionate professional. Because I have a multifaceted personality, I am able to contribute and assist on various aspects of a working team, such as analysis, organization, UI/UX, and, of course, testing and quality assurance. At the same time, I never stop learning new things and exploring new fields of interest.<br>
+I am a very organized, attentive to details, and structured person due to a discipline cultivated since I was a child. In addition, I have a very open personality, am very communicative, and am always eager to discuss and solve problems.<br>
 My aspirations are to excel in the QA management and test automation fields, while my purpose is to apply the knowledge obtained to solve users' problems and needs and have enlightened customers.
 
 # Skills
