@@ -7,6 +7,8 @@
 * [Examples of my work](#examples-of-my-work)
 
 # About me
+I am positive-thinking person and a passionate professional. Having a multi-dimensional personality lets me contribute and help on different aspects of a working team such as analysis, organization, UI/UX and of course testing and quality assurance. In the same time I never stop from learning new things and exploring new fields of interest. I am very organized, attentive to details and structured person due to a discipline cultivated since a child. Also I am very open nature and communicative and always willing to discuss and solve problems.
+My aspirations are to excel on QA management and test automation fields, while my purpose is to apply the obtained knowledge to solve user's problems and needs and having enlighted customers.
 
 # Skills
 You can find examples of some of the described skills in the [Examples of my work](#examples-of-my-work) section
