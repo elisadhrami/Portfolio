@@ -11,16 +11,42 @@
 # Skills
 You can find examples of some of the described skills in the [Examples of my work](#examples-of-my-work) section
 #### Manual Testing
+* Perform functional testing on web and mobile apps
+* Hands on experience on applications and systems on different domain areas such as: security orchestration, invoicing, sales management, scheduling and booking events, CRM, consumpation calculation and user's invoincing, electronic signing of official documents, mobile bots, etc.
+* Perform non functional testing such as usability and portability testing AND perform exploratory testing based on checklists and best practices
+
 #### Test Analysis and Design
-#### Defect Reporting
-#### Root Cause Analysis
+* Familiar with creating use cases, test trees,mind maps, transition diagrams
+* Apply black-box and white-box techniques to derive test cases
+* Can create test data and test environments using CI/CD tools and online generation tools
+
+#### Defect Reporting and Root Cause Analysis
+* Familiar with differnt bug reporting tools such as: Azure Devops, Jira,Trello etc
+* Writing comprehensive defects from regression testing, exploratory and sanity testing
+* Using web dev-tools, DB quering and system knowledge to perform root cause analysis when necessary
+
 #### Automated Testing
+* Perform E2E functional automated testing
+* Good experience with basics of programming languages: C#, Python
+
 #### API Testing
-#### SQL and non-SQL DBs
+* Know difference between SOAP and REST API
+* Manual testing of APIs
+* Manipulate common request types using Postman
+
+#### SQL
+* Writing complex requests using queries
+* Familiar with use of joins, wildcards etc
+
 #### Test Documentation
-#### Test and schedule management
-#### C# on .NET Fundamentals
-#### Python Fundamentals (Learning)
+* Can write complete test plans, test cases, checklists for different testing purposes
+* Perform result analysis and presentation of results for different stakeholders
+
+#### Programming Languages
+* C# and Python
+* Can write simple functions
+* Can understand easy code
+* Can user frameworks for creationg of automated tests
 
 # Tools
 #### AzureDevops
