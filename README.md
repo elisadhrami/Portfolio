@@ -111,3 +111,7 @@ You can find examples of some of the described skills in the [Examples of my wor
 * The Future of Software Quality Assurance (Reading)
 
 # Examples of my work
+## Test Cases and work in AzureDevops
+## Bug reports
+## Mindmaps and diagrams
+## Automated scripts for E2E testing
