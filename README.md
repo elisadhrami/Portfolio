@@ -5,6 +5,10 @@
 * [Courses](#courses)
 * [Books I have read](#books-i-have-read)
 * [Examples of my work](#examples-of-my-work)
+   - Test Cases and work in AzureDevops
+   - Bug reports
+   - Mindmaps and diagrams
+   - Automated scripts for E2E testing
 
 # About me
 I am a positive thinker and a passionate professional. Because I have a multifaceted personality, I am able to contribute and assist on various aspects of a working team, such as analysis, organization, UI/UX, and, of course, testing and quality assurance. At the same time, I never stop learning new things and exploring new fields of interest.<br>
@@ -111,7 +115,7 @@ You can find examples of some of the described skills in the [Examples of my wor
 * The Future of Software Quality Assurance (Reading)
 
 # Examples of my work
-## Test Cases and work in AzureDevops
-## Bug reports
-## Mindmaps and diagrams
-## Automated scripts for E2E testing
+### Test Cases and work in AzureDevops
+### Bug reports
+### Mindmaps and diagrams
+### Automated scripts for E2E testing
