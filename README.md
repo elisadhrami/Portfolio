@@ -118,4 +118,5 @@ You can find examples of some of the described skills in the [Examples of my wor
 ### Test Cases and work in AzureDevops
 ### Bug reports
 ### Test Trees and diagrams
+* Test tree of adding new functionality in two existing modules of the Siemplify, now [Chronicle Security](https://cloud.google.com/solutions/security-orchestration-automation-response), application. Check the test tree.
 ### Automated scripts for E2E testing
