@@ -7,7 +7,7 @@
 * [Examples of my work](#examples-of-my-work)
    - [Test Cases and work in AzureDevops](#test-cases-and-work-in-azuredevops)
    - [Bug reports](#bug-reports)
-   - [Mindmaps and diagrams](#mindmaps-and-diagrams)
+   - [Test trees and diagrams](#test-trees-and-diagrams)
    - [Automated scripts for E2E testing](#automated-scripts-for-e2e-testing)
 
 # About me
@@ -117,5 +117,5 @@ You can find examples of some of the described skills in the [Examples of my wor
 # Examples of my work
 ### Test Cases and work in AzureDevops
 ### Bug reports
-### Mindmaps and diagrams
+### Test Trees and diagrams
 ### Automated scripts for E2E testing
