@@ -128,5 +128,5 @@ You can find examples of some of the described skills in the [Examples of my wor
 * User Guide for AllAccess external user
 * Sprint Demo Presentation for AllAccess internal user
 * QA Process Improvement document
-* Test Automation Roadmap and Test Strategy[here]()
+* Test Automation Roadmap and Test Strategy[here](AllAccess Test Automation Roadmap.pdf)
 ### Automated scripts for E2E testing
