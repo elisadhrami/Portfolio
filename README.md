@@ -5,7 +5,7 @@
 * [Courses](#courses)
 * [Books I have read](#books-i-have-read)
 * [Examples of my work](#examples-of-my-work)
-   - [Test Cases and work in AzureDevops](#test-cases-and-work-in-azuredevops)
+   - [Test Cases and Test Plan in AzureDevops](#test-cases-and-test-plan-in-azuredevops)
    - [Bug reports](#bug-reports)
    - [Test trees and diagrams](#test-trees-and-diagrams)
    - [Test Documents](#test-documents)
