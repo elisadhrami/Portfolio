@@ -117,7 +117,7 @@ You can find examples of some of the described skills in the [Examples of my wor
 
 # Examples of my work
 ### Test Cases and Test Plan in AzureDevops
-* Test Cases for Instep system- Advantage Solutions [here](https://github.com/elisadhrami/Portfolio/issues/4)
+* Test Cases for Instep system- Advantage Solutions [here](Instep Test Cases.xlsx)
 * Test Cases for AllAccess system- Advantage Solutions[here](https://github.com/elisadhrami/Portfolio/issues/5)
 ### Bug reports
 * Bug #1 in AzureDevops for AllAccess product- Advantage Solutions [here](https://github.com/elisadhrami/Portfolio/issues/2#issue-1610309563).
@@ -129,5 +129,5 @@ You can find examples of some of the described skills in the [Examples of my wor
 * User Guide for AllAccess external user
 * Sprint Demo Presentation for AllAccess internal user
 * QA Process Improvement document
-* Test Automation Roadmap and Test Strategy?
+* Test Automation Roadmap and Test Strategy[here]()
 ### Automated scripts for E2E testing
