@@ -117,8 +117,8 @@ You can find examples of some of the described skills in the [Examples of my wor
 # Examples of my work
 ### Test Cases and work in AzureDevops
 ### Bug reports
-* Bug #1 in AzureDevops [here](https://github.com/elisadhrami/Portfolio/issues/2#issue-1610309563).
-* Bug #2 in AzureDevops [here](https://github.com/elisadhrami/Portfolio/issues/3#issue-1610310140).
+* Bug #1 in AzureDevops for AllAccess product- Advantage Solutions [here](https://github.com/elisadhrami/Portfolio/issues/2#issue-1610309563).
+* Bug #2 in AzureDevopsfor AllAccess product- Advantage Solutions [here](https://github.com/elisadhrami/Portfolio/issues/3#issue-1610310140).
 * Bug #3 in Jira [here]().
 ### Test Trees and diagrams
 * Test tree of adding new functionality in two existing modules of the Siemplify, now [Chronicle Security](https://cloud.google.com/solutions/security-orchestration-automation-response), application. Check the [test tree](https://github.com/elisadhrami/Portfolio/issues/1#issue-1610298289).
