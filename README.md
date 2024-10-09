@@ -116,7 +116,7 @@ You can find examples of some of the described skills in the [Examples of my wor
 * The Future of Software Quality Assurance (Reading)
 
 # Examples of my work
-### Test Cases and work in AzureDevops
+### Test Cases and Test Plan in AzureDevops
 ### Bug reports
 * Bug #1 in AzureDevops for AllAccess product- Advantage Solutions [here](https://github.com/elisadhrami/Portfolio/issues/2#issue-1610309563).
 * Bug #2 in AzureDevopsfor AllAccess product- Advantage Solutions [here](https://github.com/elisadhrami/Portfolio/issues/3#issue-1610310140).
@@ -126,4 +126,6 @@ You can find examples of some of the described skills in the [Examples of my wor
 ### Test Documents
 * User Guide for AllAccess external user
 * Sprint Demo Presentation for AllAccess internal user
+* QA Process Improvement document
+* Test Automation Roadmap and Test Strategy?
 ### Automated scripts for E2E testing
