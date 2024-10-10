@@ -128,8 +128,8 @@ You can find examples of some of the described skills in the [Examples of my wor
 * User Guide for AllAccess external user
 * Sprint Demo Presentation for AllAccess internal user
 * QA Process Improvement document
-* Test Automation Roadmap and Test Strategy 
-   * [here](https://github.com/user-attachments/files/17310007/Regression.Suite.Automation.Timeline.pdf)
-   * [here](https://github.com/user-attachments/files/17310028/AllAccess.Test.Automation.Roadmap.pdf)
+* Test Automation Roadmap and Timeline
+   * [Roadmap](https://drive.google.com/file/d/12QLh6DupRtjzN9a0l31ZjPJ-mTWF8k0d/view?usp=sharing)
+   * [Timeline](https://drive.google.com/file/d/1EzAby8ZZ4dnliHFIO5Xh24Vpfh42Esn6/view?usp=sharing)
 
 ### Automated scripts for E2E testing
