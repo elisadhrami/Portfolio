@@ -132,7 +132,7 @@ You can find examples of some of the described skills in the [Examples of my wor
 ### Test Documents
 * User Guide for AllAccess external user
 * Sprint Demo Presentation for AllAccess internal user
-* QA Process Improvement document
+* QA Process Improvement document[here](https://docs.google.com/document/d/1xyzlT7nDsfQ981DNL8u625UjImyHWuEf/edit?usp=sharing&ouid=114449048500404940173&rtpof=true&sd=true)
 * Test Automation Roadmap and Timeline
    * [Roadmap](https://drive.google.com/file/d/12QLh6DupRtjzN9a0l31ZjPJ-mTWF8k0d/view?usp=sharing)
    * [Timeline](https://drive.google.com/file/d/1EzAby8ZZ4dnliHFIO5Xh24Vpfh42Esn6/view?usp=sharing)
