@@ -138,5 +138,5 @@ You can find examples of some of the described skills in the [Examples of my wor
    * [Timeline](https://drive.google.com/file/d/1EzAby8ZZ4dnliHFIO5Xh24Vpfh42Esn6/view?usp=sharing)
 
 ### Automated scripts for E2E testing
-* E2E Automation of registration in Protractor.net [here](https://drive.google.com/file/d/1ODwTCzLwZg_pu41ukGGGJyZaA3EyDAZJ/view?usp=sharing)
+* E2E Automation of registration in Protractor.net for IntelyCare [here](https://drive.google.com/file/d/1ODwTCzLwZg_pu41ukGGGJyZaA3EyDAZJ/view?usp=sharing)
 * E2E Automation Scenarios in Playwright TS
