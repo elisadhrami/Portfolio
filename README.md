@@ -130,9 +130,8 @@ You can find examples of some of the described skills in the [Examples of my wor
 ### Test Trees and diagrams
 * Test tree of adding new functionality in two existing modules of the Siemplify, now [Chronicle Security](https://cloud.google.com/solutions/security-orchestration-automation-response), application. Check the [test tree](https://github.com/elisadhrami/Portfolio/issues/1#issue-1610298289).
 ### Test Documents
-* User Guide for AllAccess external user
-* Sprint Demo Presentation for AllAccess internal user
-* QA Process Improvement document[here](https://docs.google.com/document/d/1xyzlT7nDsfQ981DNL8u625UjImyHWuEf/edit?usp=sharing&ouid=114449048500404940173&rtpof=true&sd=true)
+* User Guide for AllAccess external user [here](https://docs.google.com/presentation/d/13nxBR1oAEzqL73TlZjaWNmwWEo0DBlXd/edit?usp=sharing&ouid=114449048500404940173&rtpof=true&sd=true)
+* QA Process Improvement document [here](https://docs.google.com/document/d/1xyzlT7nDsfQ981DNL8u625UjImyHWuEf/edit?usp=sharing&ouid=114449048500404940173&rtpof=true&sd=true)
 * Test Automation Roadmap and Timeline
    * [Roadmap](https://drive.google.com/file/d/12QLh6DupRtjzN9a0l31ZjPJ-mTWF8k0d/view?usp=sharing)
    * [Timeline](https://drive.google.com/file/d/1EzAby8ZZ4dnliHFIO5Xh24Vpfh42Esn6/view?usp=sharing)
